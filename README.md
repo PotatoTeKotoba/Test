@@ -1,3 +1,1 @@
-# Test
-
-salut ilias
+This project prints Hello World !
